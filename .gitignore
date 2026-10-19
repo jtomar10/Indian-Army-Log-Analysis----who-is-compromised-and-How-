@@ -1,0 +1,11 @@
+.DS_Store
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Raw evidence and datasets
+*.7z
+*.zip
+data/
+web_activity/
